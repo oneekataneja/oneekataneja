@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @oneekataneja
-- 👀 I’m interested in AI/ML, Data Science and Analytics
-- 🌱 I’m currently learning ML and NLP
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-  Hi, I’m @oneekataneja
+- I’m interested in AI/ML, Data Science and Analytics
+- I’m currently learning ML and Big Data
+- 📫 How to reach me: oneekataneja@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
